@@ -22,7 +22,7 @@ Please enjoy this plugin which automatically corrects common typos and capitaliz
 ## Support
 
 For issues and suggestions, visit the [GitHub repository]([https://github.com/cxj05h/Autocorrector4u/issues).
-Currently tested and working on Windows
+Currently working only on Windows
 
 ## License
 
