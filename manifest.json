@@ -5,7 +5,7 @@
     "minAppVersion": "1.5.3",
     "description": "Obsidian plugin for auto-capitalization",
     "author": "CmyJones",
-    "repo": "https://github.com/cxj05h/Autocorrector4u",
+    "repo": "cxj05h/Autocorrector4u",
     "isDesktopOnly": true
 }
 
