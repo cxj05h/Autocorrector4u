@@ -1,12 +1,13 @@
 {
     "id": "capitalization-autocorrector2",
-    "name": "Autocorrector",
+    "name": "Autocorrector2",
     "version": "1.0.0",
     "minAppVersion": "1.5.3",
     "description": "Obsidian plugin for auto-capitalization",
-    "author": "cmyjones",
-    "authorUrl": "https://github.com/cxj05h",
+    "author": "CmyJones",
+    "repo": "https://github.com/cxj05h/Autocorrector4u",
     "isDesktopOnly": false
 }
+
 
 
