@@ -1,4 +1,4 @@
-# Obsidian Autocorrector Plugin
+# Autocorrector 
 
 Finally, at your service, saving you tens of thousands of SHIFT keypresses. 
 Please enjoy this plugin which automatically corrects common typos and capitalization errors (referring only to the laziness in not pressing shift). Easily toggle this feature on or off with a shortcut.
