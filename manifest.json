@@ -3,7 +3,7 @@
     "name": "Autocorrector4u",
     "version": "1.0.0",
     "minAppVersion": "1.5.3",
-    "description": "Obsidian plugin for auto-capitalization",
+    "description": "Grammatical auto-capitalization for 'i' and fist letter in a sentence/paragraph",
     "author": "CmyJones",
     "repo": "cxj05h/Autocorrector4u",
     "isDesktopOnly": true
