@@ -5,7 +5,10 @@ Please enjoy this plugin which automatically corrects common typos and capitaliz
 
 ## Features
 
-- **Automatic Text Correction:** 1) Will fix "i" to "I" -- "i've" to "I've" etc. 2) Will auto-capitalize the first letter in a sentence.
+- **Automatic Text Correction:**
+  1) Will fix "i" to "I" -- "i've" to "I've" etc.
+  2) Will auto-capitalize the first letter in a sentence.
+ 
 - **Easy Toggle:** Activate or deactivate with `Ctrl+Shift+F6`.
 
 ## Installation
