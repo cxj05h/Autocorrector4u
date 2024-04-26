@@ -3,9 +3,8 @@
     "name": "Autocorrector4u",
     "version": "1.0.0",
     "minAppVersion": "1.5.3",
-    "description": "Grammatical auto-capitalization for 'i' and fist letter in a sentence/paragraph",
+    "description": "Grammatical auto-capitalization for 'i' and first letter in a sentence/paragraph",
     "author": "CmyJones",
-    "repo": "cxj05h/Autocorrector4u",
     "isDesktopOnly": true
 }
 
